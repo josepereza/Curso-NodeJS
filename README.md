@@ -11,6 +11,6 @@ En el curso vamos a ver algunos temas como los siguientes:
   - Uso de Express como framework para Node
 
 ➡️ Accede al [curso completo de Node JS en Vida MRR](http://www.vidamrr.com)
-Curso youtube :  https://www.youtube.com/watch?v=APbb-z8A3Zc&list=PLvRPaExkZHFn_EGzNOXsWqtAAGl8ZCbUo
+* Curso youtube :  https://www.youtube.com/watch?v=APbb-z8A3Zc&list=PLvRPaExkZHFn_EGzNOXsWqtAAGl8ZCbUo
 
 
